@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ab625e5a-29ad-4d0e-9879-5068efc5df66" name="10.10.8.30" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="\\Hg7fdev01\dev" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
